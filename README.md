@@ -10,8 +10,9 @@ To install the Cometale as an interactive projection, you need the following mat
 <div>
   <ul>
     <li>a computer</li>
+    <li>TouchDesigner sorftware</li>
     <li>a Kinect</li>
-    <li>the <a href="./TouchDesigner/cometale.toe">TouchDesigner program</a> in this repository downloaded to your computer</li>
+    <li>the zip file of this repository downloaded to your computer</li>
     <li>a speaker</li>
     <li>a short-throw projector</li>
     <li>a projection screen</li>
